@@ -5,7 +5,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #ee3800d8;
-  color: #fff;
+  background-image: url("https://previews.123rf.com/images/yaavi/yaavi1601/yaavi160100084/52176908-seamless-pattern-of-burgers-sandwiches-tacos-hot-dogs-and-onion-rings-vector-cartoon-food-background.jpg");
+  color: rgb(14, 1, 1);
   overflow-x: hidden;
 }
 #root {
